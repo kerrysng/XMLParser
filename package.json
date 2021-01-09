@@ -1,0 +1,23 @@
+{
+  "name": "pdfapi",
+  "version": "1.0.0",
+  "description": "pdf api for digital-forms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.619.0",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "helmet": "^3.21.3",
+    "moment": "^2.24.0",
+    "underscore": "^1.9.2",
+    "xml2js": "^0.4.23",
+    "xml2json": "^0.12.0"
+  },
+  "devDependencies": {},
+  "author": "TPH Technologies",
+  "license": "ISC"
+}
